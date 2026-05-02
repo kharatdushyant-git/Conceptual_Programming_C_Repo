@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int Display()
+void Display()
 {
     printf("Jay Ganesh...\n");
 }
